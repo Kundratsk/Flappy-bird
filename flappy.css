@@ -1,0 +1,10 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#board {
+    /*background-color: skyblue;*/
+    background-image: url(pictures/flappybirdbg.png);
+
+}
